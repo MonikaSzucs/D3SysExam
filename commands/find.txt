@@ -1,0 +1,18 @@
+/Users/a00878763/.Trash/cat1.txt
+/Users/a00878763/.Trash/desktopls.txt
+/Users/a00878763/.Trash/git/delt/cat1.txt
+/Users/a00878763/.Trash/git/delt/js/curl.txt
+/Users/a00878763/.Trash/git/delt/js/head.txt
+/Users/a00878763/.Trash/git/delt/js/tai.txt
+/Users/a00878763/.Trash/top.txt
+/Users/a00878763/Desktop/MyGit/D3SysExam/commands/bottom.txt
+/Users/a00878763/Desktop/MyGit/D3SysExam/commands/desktopls.txt
+/Users/a00878763/Desktop/MyGit/D3SysExam/commands/find.txt
+/Users/a00878763/Desktop/MyGit/D3SysExam/commands/top.txt
+/Users/a00878763/Desktop/MyGit/D3SysExam/img.txt
+/Users/a00878763/htdocs/commands/desktopls.txt
+/Users/a00878763/htdocs/img.txt
+/Users/a00878763/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/3d352674c8cae1c4291cdbd195b731883d99e567/index.txt
+/Users/a00878763/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/a00878763/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+/Users/a00878763/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
